@@ -14,8 +14,8 @@ The title for each page is included using the <title> element and the icon for t
  
 Top of the navigation bar:
 
-This allows the logo below to show by using <img src=”xxx.png”> pattern.
-The <h1> and <p> are showing the store name and the welcoming sentence.
+This allows the logo below to show by using ```<img src=”xxx.png”>``` pattern.
+The ```<h1>``` and ```<p>``` are showing the store name and the welcoming sentence.
 CSS: 
 display: inline-block; does not add a line-break after the element, so the element can sit next to other elements.
 It allows you to set width and height on the element, in the code it is set as height:72px; and width: auto;.
