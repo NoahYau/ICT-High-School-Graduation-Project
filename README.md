@@ -9,8 +9,8 @@ The overview of the home page
 HTML (Header)
 
 The following is included in the page inside the <head> element.
-The external stylesheet index_ai.css, all.min.css, product.css is linked in all pages with <link> element.
-The title for each page is included using the <title> element and the icon for the website is included using the <link> element. It will show as below:
+The external stylesheet ```index_ai.css```, ```all.min.css```, ```product.css``` is linked in all pages with ```<link>``` element.
+The title for each page is included using the <title> element and the icon for the website is included using the ```<link>``` element. It will show as below:
  
 Top of the navigation bar:
 
@@ -18,7 +18,7 @@ This allows the logo below to show by using ```<img src=”xxx.png”>``` patter
 The ```<h1>``` and ```<p>``` are showing the store name and the welcoming sentence.
 CSS: 
 display: inline-block; does not add a line-break after the element, so the element can sit next to other elements.
-It allows you to set width and height on the element, in the code it is set as height:72px; and width: auto;.
+It allows you to set width and height on the element, in the code it is set as ```height:72px;``` and ```width: auto;```.
 
 
 Effect:
@@ -40,12 +40,12 @@ The buttons in navigation bar will change their text and background colour when 
 The origianal text and background colour are white and dark grey respectively, the text and background colour changed to black and light pink after hovering.
 
 
-Slideshow (by external JavaScript file; .js)
+Slideshow (by external JavaScript file; ```.js```)
 The variable slideIndex is to change the index of the slideshow (picture)
 
-The startSlideShow() function is for calling the for loop to encounter the operation of slideshow. It changes the slideshow 5 seconds per slide, user can move the slideshow on their own too by the function plusSlides().
+The ```startSlideShow()``` function is for calling the for loop to encounter the operation of slideshow. It changes the slideshow 5 seconds per slide, user can move the slideshow on their own too by the function ```plusSlides()```.
 HTML:
-<script> </script> is to link to the javascript at the right side.
+```<script> </script>``` is to link to the javascript at the right side.
 
 HTML of product cards located at the latest product session:
 The css .row is to group the product cards below in order to stay in a horizontal alignment, and the .block is to set the width of each product card.
