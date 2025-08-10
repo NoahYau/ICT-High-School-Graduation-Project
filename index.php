@@ -140,7 +140,7 @@
             <div class="footer-section">
                 <h3>Quick Links</h3>
                 <div class="footer-links">
-                    <a href="home.php">Home</a>
+                    <a href="index.php">Home</a>
                     <a href="products.php">Products</a>
                     <a href="about.html">About Us</a>
                     <a href="about.html">Contact</a>

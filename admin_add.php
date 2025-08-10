@@ -23,7 +23,7 @@ if (!isset($_SESSION["email"]) || $_SESSION["admin"] != 1) {
     <div class="topnav">
         <nav class="navbar bg-body-tertiary">
             <div class="container">
-                <a class="navbar-brand" href="home.php">
+                <a class="navbar-brand" href="index.php">
                     <img src="./photos/doge_logo_v2.png" alt="DogeBee Logo" width="60" height="70">
                 </a>
             </div>
@@ -36,7 +36,7 @@ if (!isset($_SESSION["email"]) || $_SESSION["admin"] != 1) {
     
     <!-- Main Navigation -->
     <div class="navbar">
-        <a href="home.php">Home</a>
+        <a href="index.php">Home</a>
         <a href="products.php">Products</a>
         <div class="dropdown">
             <button class="dropbtn">Browse by Brand

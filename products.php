@@ -138,7 +138,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['add_to_cart'])) {
         </nav>
     </div>
     <div class="navbar">
-        <a href="home.php">Home</a>
+        <a href="index.php">Home</a>
         <a href="products.php">Products</a>
         <div class="dropdown">
             <button class="dropbtn">Browse by Brand

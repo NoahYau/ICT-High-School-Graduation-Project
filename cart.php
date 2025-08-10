@@ -112,7 +112,7 @@ if (isset($_POST['update_quantity'])) {
     <!-- Top Navigation -->
     <div class="topnav">
         <nav class="navbar">
-            <a class="navbar-brand" href="home.php">
+            <a class="navbar-brand" href="index.php">
                 <img src="./photos/doge_logo_v2.png" alt="DogeBee Logo" id="logo">
             </a>
             <div class="header" style="color:rgb(255, 255, 255);">
@@ -124,7 +124,7 @@ if (isset($_POST['update_quantity'])) {
     
     <!-- Main Navigation -->
     <div class="navbar">
-        <a href="home.php">Home</a>
+        <a href="index.php">Home</a>
         <a href="products.php">Products</a>
         <div class="dropdown">
             <button class="dropbtn">Browse by Brand
