@@ -6,7 +6,7 @@ Implementation of Home page and Product page
 General
 The overview of the home page
 
-HTML (Header) <img src="https://imgur.com/S2UFMb1">
+HTML (Header) <blockquote class="imgur-embed-pub" lang="en" data-id="S2UFMb1" data-context="false" ><a href="//imgur.com/S2UFMb1"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 The following is included in the page inside the <head> element.
 The external stylesheet ```index_ai.css```, ```all.min.css```, ```product.css``` is linked in all pages with ```<link>``` element.
