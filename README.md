@@ -6,7 +6,7 @@ Implementation of Home page and Product page
 General
 The overview of the home page
 
-HTML (Header)
+HTML (Header) https://imgur.com/S2UFMb1
 
 The following is included in the page inside the <head> element.
 The external stylesheet ```index_ai.css```, ```all.min.css```, ```product.css``` is linked in all pages with ```<link>``` element.
